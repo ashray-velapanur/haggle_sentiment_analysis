@@ -8413,7 +8413,7 @@
         }, 
         {
             "text": "Not a great place, skip if you can.", 
-            "sentiment": "PN"
+            "sentiment": "N"
         }
     ], 
     "4fd0aeeee4b0625890304d13": [], 

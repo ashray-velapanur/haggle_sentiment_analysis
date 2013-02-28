@@ -4203,7 +4203,7 @@
         }, 
         {
             "text": "Uno de los mejores pizzer\u00eda que he probado en mi vida", 
-            "sentiment": "u"
+            "sentiment": "U"
         }, 
         {
             "text": "It's so good that you should take home and have it injected in your veins.", 

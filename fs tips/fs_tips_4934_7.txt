@@ -14438,7 +14438,7 @@
         }, 
         {
             "text": "You ain't missin nothin", 
-            "sentiment": "n"
+            "sentiment": "N"
         }, 
         {
             "text": "Get 2 scoops - peaches & cream, vanilla chocolate chunk w strawberry (fresh cut) topping. Absolutely yum.", 

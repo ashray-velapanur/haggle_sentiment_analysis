@@ -12185,7 +12185,7 @@
     "4e4cbe73bd413c4cc66bd030": [
         {
             "text": "If you stop in for coffee on a Saturday afternoon, beware. The waitstaff will be annoyed, even if the place is dead.", 
-            "sentiment": "n"
+            "sentiment": "N"
         }, 
         {
             "text": "French toast is the best", 
@@ -14736,7 +14736,7 @@
         }, 
         {
             "text": "Don't come here on Sunday for game day - unless the college scene is what your into.", 
-            "sentiment": "NP"
+            "sentiment": "U"
         }, 
         {
             "text": "Seriously good, legit wings. Get the \"Little Town Garbage\" wings. Thank me later.", 
